@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+*  I'm studying to be a flutter developer 💻 
+*  I’m currently coding a furniture store app  🛋️ 
+
+Happy hopping! 🐰✨
+
 <!--
 **tugbadokumaci/tugbadokumaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
