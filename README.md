@@ -3,6 +3,9 @@
 *  I'm studying to be a flutter developer 💻 
 *  I’m currently coding a furniture store app  🛋️ 
 
+
+➡️ bwy is now avaliable on [PlayStore!](https://play.google.com/store/apps/details?id=com.bursawebyazilim.bwy) 
+
 Happy hopping! 🐰✨
 
 <!--
